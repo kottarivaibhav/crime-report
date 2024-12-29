@@ -218,3 +218,9 @@ export default function Dashboard() {
     </div>
   );
 }
+
+
+DATABASE_URL = postgresql://neondb_owner:VAylbmh1PK8r@ep-shrill-sound-a5fuyn5c.us-east-2.aws.neon.tech/neondb?sslmode=require
+GEMINI_API_KEY =AIzaSyARQfS9vniQINn_-eHc4nCiDiMq0J2Pf2g
+NEXTAUTH_URL = http://localhost:3000/api_auth
+NEXTAUTH_SECRET="your-secret-key"
